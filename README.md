@@ -1,2 +1,2 @@
 # REMOTE
- REMOT Ce fichier est créé sur Github
+ LOCAL Ce fichier est créé sur Github
